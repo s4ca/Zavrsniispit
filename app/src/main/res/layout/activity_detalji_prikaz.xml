@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Actvty.DetaljiPrikaz">
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbarDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+
+    <TextView
+        android:id="@+id/year"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+
+    <TextView
+        android:id="@+id/rated"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/released"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+
+    <TextView
+        android:id="@+id/runtime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+
+    <TextView
+        android:id="@+id/genre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+
+    <TextView
+        android:id="@+id/director"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+
+    <TextView
+        android:id="@+id/writer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+
+    <TextView
+        android:id="@+id/actors"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+
+    <TextView
+        android:id="@+id/plot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/language"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/country"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/awards"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/poster"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/metascore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/imdbRating"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/imdbVotes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/imdbID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/dVD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/boxOffice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/production"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+    <TextView
+        android:id="@+id/website"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEKST"/>
+
+
+
+</LinearLayout>
